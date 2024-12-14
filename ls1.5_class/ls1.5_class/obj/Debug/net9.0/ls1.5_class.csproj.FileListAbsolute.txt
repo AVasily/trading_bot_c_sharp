@@ -1,0 +1,14 @@
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\bin\Debug\net9.0\ls1.5_class.exe
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\bin\Debug\net9.0\ls1.5_class.deps.json
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\bin\Debug\net9.0\ls1.5_class.runtimeconfig.json
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\bin\Debug\net9.0\ls1.5_class.dll
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\bin\Debug\net9.0\ls1.5_class.pdb
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\obj\Debug\net9.0\ls1.5_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\obj\Debug\net9.0\ls1.5_class.AssemblyInfoInputs.cache
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\obj\Debug\net9.0\ls1.5_class.AssemblyInfo.cs
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\obj\Debug\net9.0\ls1.5_class.csproj.CoreCompileInputs.cache
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\obj\Debug\net9.0\ls1.5_class.dll
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\obj\Debug\net9.0\refint\ls1.5_class.dll
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\obj\Debug\net9.0\ls1.5_class.pdb
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\obj\Debug\net9.0\ls1.5_class.genruntimeconfig.cache
+C:\Users\areph\source\repos\ls1.5_class\ls1.5_class\obj\Debug\net9.0\ref\ls1.5_class.dll
